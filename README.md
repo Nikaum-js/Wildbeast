@@ -5,7 +5,7 @@
 
 <img src="./wildbeast.PNG" alt="exemplo imagem">
 
-> Esse é um projeto que eu fiz usando SASS e HTML pra treinar um pouco esse pré-processador tão importantate que é o SASS
+> Esse é um projeto que eu fiz para treinar o meu css grid layout
 > 
 ## Linguagens utilizadas
 
