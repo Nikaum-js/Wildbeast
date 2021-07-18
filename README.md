@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/Wildbeast?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/Wildbeast?style=for-the-badge)
 
-<img src="./assets/images/LesCone.PNG" alt="exemplo imagem">
+<img src="./wildbeast.PNG" alt="exemplo imagem">
 
 > Esse é um projeto que eu fiz usando SASS e HTML pra treinar um pouco esse pré-processador tão importantate que é o SASS
 > 
