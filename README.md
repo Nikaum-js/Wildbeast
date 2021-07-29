@@ -1,6 +1,6 @@
 # Wildbeast
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/Wildbeast?style=for-the-badge)
+[GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/Wildbeast?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/Wildbeast?style=for-the-badge)
 
 <img src="./wildbeast.PNG" alt="exemplo imagem">
